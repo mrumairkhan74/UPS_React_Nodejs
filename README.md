@@ -1,6 +1,6 @@
 
 # UPS_REACT_NODEJS
-
+<div align="center">
 **Empowering Education Through Seamless Digital Solutions**
 
 ![Last Commit](https://img.shields.io/badge/last%20commit-april-blue)  
@@ -24,7 +24,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-blue)  
 ![Axios](https://img.shields.io/badge/Axios-lightblue)  
 ![GraphQL](https://img.shields.io/badge/GraphQL-pink)
-
+</div>
 ---
 
 ## Table of Contents
