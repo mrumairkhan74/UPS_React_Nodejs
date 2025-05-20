@@ -1,30 +1,33 @@
-
 # UPS_REACT_NODEJS
-<div align="center">
+
 **Empowering Education Through Seamless Digital Solutions**
 
-![Last Commit](https://img.shields.io/badge/last%20commit-april-blue)  
-![Language](https://img.shields.io/badge/javascript-99.6%25-yellow)  
+<div align="center">
+
+![Last Commit](https://img.shields.io/badge/last%20commit-april-blue)
+![Language](https://img.shields.io/badge/javascript-99.6%25-yellow)
 ![Languages](https://img.shields.io/badge/languages-3-blue)
 
 ---
 
 ## Built with the tools and technologies:
 
-![Express](https://img.shields.io/badge/Express-black)  
-![JSON](https://img.shields.io/badge/JSON-lightgrey)  
-![npm](https://img.shields.io/badge/npm-red)  
-![Mongoose](https://img.shields.io/badge/Mongoose-darkred)  
-![.ENV](https://img.shields.io/badge/.ENV-lightgrey)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)  
-![EJS](https://img.shields.io/badge/EJS-green)  
-![Nodemon](https://img.shields.io/badge/Nodemon-green)  
-![React](https://img.shields.io/badge/React-blue)  
-![Vite](https://img.shields.io/badge/Vite-purple)  
-![ESLint](https://img.shields.io/badge/ESLint-blue)  
-![Axios](https://img.shields.io/badge/Axios-lightblue)  
+![Express](https://img.shields.io/badge/Express-black)
+![JSON](https://img.shields.io/badge/JSON-lightgrey)
+![npm](https://img.shields.io/badge/npm-red)
+![Mongoose](https://img.shields.io/badge/Mongoose-darkred)
+![.ENV](https://img.shields.io/badge/.ENV-lightgrey)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![EJS](https://img.shields.io/badge/EJS-green)
+![Nodemon](https://img.shields.io/badge/Nodemon-green)
+![React](https://img.shields.io/badge/React-blue)
+![Vite](https://img.shields.io/badge/Vite-purple)
+![ESLint](https://img.shields.io/badge/ESLint-blue)
+![Axios](https://img.shields.io/badge/Axios-lightblue)
 ![GraphQL](https://img.shields.io/badge/GraphQL-pink)
+
 </div>
+
 ---
 
 ## Table of Contents
@@ -62,7 +65,7 @@ This project simplifies the development process while ensuring a robust architec
 This project requires the following dependencies:
 
 - **Programming Language:** JavaScript  
-- **Package Manager:** Npm
+- **Package Manager:** npm
 
 ---
 
@@ -74,4 +77,26 @@ Build **UPS_React_Nodejs** from the source and install dependencies:
 
    ```bash
    git clone https://github.com/mrumairkhan74/UPS_React_Nodejs
-   
+
+2. **Navigate to the project directory:**
+
+    ``` bash
+    cd UPS_React_Nodejs
+
+3. **Install the dependencies:**
+
+   ```bash
+   npm install
+
+**Usage**
+Run project With
+
+    ```bash
+    npm start
+    
+**Testing**
+UPS_React_Nodejs uses the {test_framework} test framework. Run the test suite with:
+
+```bash
+npm test
+
