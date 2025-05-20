@@ -91,12 +91,6 @@ Build **UPS_React_Nodejs** from the source and install dependencies:
 **Usage**
 Run project With
 
-  ```bash
- npm start
-   
-**Testing**
-UPS_React_Nodejs uses the {test_framework} test framework. Run the test suite with:
-
-```bash
-npm test
+   ```bash
+   npm start
 
